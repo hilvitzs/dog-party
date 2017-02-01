@@ -1,0 +1,98 @@
+header {
+  background-color: #92E0E5;
+  height: 30px;
+}
+
+ nav {
+  float: right;
+  padding-top: 5px;
+  padding-right: 5px;
+}
+
+.dog {
+  height: 20px;
+  margin-top: 5px;
+  margin-left: 5px;
+  padding: 0px 5px 0px 5px;
+}
+
+
+ul {
+  display: inline;
+}
+
+li {
+  display: inline-block;
+  font-family: 'Raleway', Georgia, serif;
+  color: #ffffff;
+  margin: 0px 5px;
+}
+
+body {
+  min-width: 900px;
+}
+
+.tiltedhead {
+  border-radius: 50%;
+  border: 2px solid #458CA2;
+  display: block;
+  margin: auto;
+}
+
+.main {
+    background: url('images/dog-party-assets/park.jpg') no-repeat;
+    background-size: cover;
+    text-align: center;
+}
+
+.circle {
+  border-radius: 50%;
+  border: 1px solid #458CA2;
+  height: 200px;
+}
+
+.columns {
+  width: 33%;
+  text-align: center;
+  font-family: 'Raleway', Georgia, serif;
+  float: left;
+}
+
+h1 {
+  font-family: 'Raleway', Georgia, serif;
+  color: black;
+  display: inline-block;
+}
+
+h4 {
+  color: #ffffff;
+  font-family: 'Raleway', Georgia, serif;
+  font-size: 16px;
+  padding-top: 15px;
+}
+
+a {
+  font-family: 'Raleway',Georgia, serif;
+  font-size: 14px;
+}
+
+button {
+  border: 2px solid #3F8DA7;
+  background-color: #ffffff;
+  font-family: 'Raleway', Georgia, serif;
+  color: #3F8DA7;
+}
+
+.top {
+  margin: 10px 0px 20px 0px;
+}
+
+.icon {
+  margin: 25px;
+}
+
+footer {
+  text-align: center;
+  background-color: #3F8DA7;
+  clear: both;
+}
